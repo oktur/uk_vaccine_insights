@@ -12,6 +12,8 @@ The command to create a conda env using the .yml file is:
 
 __conda env create -f environment.yml__
 
+__NB: change the env_name and path in the .yml file before running or it will not work!
+
 For more information see:
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 
